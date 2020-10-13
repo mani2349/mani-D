@@ -1,0 +1,16 @@
+body {
+ background-image: url("C:\Users\MY\Desktop\DESKTOP\TinDog-Start-master\images\owl-dark-glowing-eyes-y3.jpg");
+
+}
+h1{
+  text-align: center;
+  padding: 20% 20% ;
+  font-size: 100px
+}
+.image{
+  position:right;
+
+  top:15%;
+  width: 800px;
+  height: 500px;
+}
